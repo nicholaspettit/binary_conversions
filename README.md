@@ -1,5 +1,5 @@
 # Binary Conversions
-Convert binary numbers to decimal or decimal to binary with c++
+Convert binary numbers to decimal or decimal to binary with c++ or python
 
 Getting Started
 
